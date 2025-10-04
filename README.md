@@ -44,7 +44,7 @@ An interactive and lightweight frontend web application that functions as an int
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/recipe-book-app 
+   git clone https://github.com/itshaseeb791/recipe-book-app 
    ```
 2. **Navigate into the project directory**
 

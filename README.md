@@ -57,11 +57,7 @@ An interactive and lightweight frontend web application that functions as an int
 
 ---
 
-## 📸 Preview
 
-> *Add screenshots or a live demo URL here*
-
----
 
 ## 🧠 Learning Objectives
 
@@ -81,7 +77,8 @@ This project is intended for educational and prototyping purposes. API keys shou
 ## 👨‍💻 Author
 
 **Mohammed Haseeb Raza**
-Computer Science Graduate | Full Stack Developer | AI & Blockchain Enthusiast
+Computer Science Graduate 
+Full Stack Developer | AI & Blockchain Enthusiast
 [LinkedIn](https://www.linkedin.com/in/muhammad-haseeb-60754b375/) • [GitHub](https://github.com/Itshaseeb791)
 
  
